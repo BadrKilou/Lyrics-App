@@ -4,6 +4,6 @@ using Vanilla Javascript, No frameworks, to fully understand Vanilla Javascript 
 
 Overview:
 
-![](lyrics2.PNG)
-
 ![](lyrics3.PNG)
+
+![](lyrics2.PNG)
